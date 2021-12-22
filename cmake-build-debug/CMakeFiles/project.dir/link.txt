@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/project.dir/main.cpp.o -o project  -Wl,-rpath,/usr/local/lib /usr/local/lib/libpcap.so -Wl,-Bstatic -lCommon++ -lPacket++ -lPcap++ -Wl,-Bdynamic 
